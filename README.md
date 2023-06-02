@@ -12,4 +12,7 @@ Incluiye la manipulación, limpieza y curación de datos, así como la aplicaci�
 técnicas de visualización y estadística descriptiva para identificar patrones, tendencias y relaciones
 entre las variables analizadas.
 
+El cuaderno fue elaborado con la plataforma Google Colab. Por lo que los archivos de datasets estan pensados para ser accedidos por la ruta default del mismo: /content
+Esta puede ser cambiada desde el codigo simplemente cambiando a la ruta deseada.
+
 
